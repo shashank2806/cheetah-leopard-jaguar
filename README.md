@@ -7,3 +7,7 @@ In this projects I created dataset set by scrapping images from [Google Images](
 I have made a WebApp for this project with help of frontent template provided by [fastai](https://github.com/render-examples/fastai-v3).
 
 I have deployed this WebApp on [Render](https://render.com) and can be found at [https://bigcats.onrender.com](https://bigcats.onrender.com)
+
+
+## Contributing
+All contributions to the project are welcome, You can Improve the accuracy of algorithm, or can make WebApp more beautiful and interactive.
