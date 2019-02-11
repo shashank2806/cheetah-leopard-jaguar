@@ -6,7 +6,28 @@ In this projects I created a dataset set by scrapping images from [Google Images
 
 I have made a WebApp for this project with help of frontend template provided by [fastai](https://github.com/render-examples/fastai-v3).
 
-I have deployed this WebApp on [Render](https://render.com) and can be found at [https://bigcats.onrender.com](https://bigcats.onrender.com)
+
+## Live Demo
+This WebApp is deployed on [Render](https://render.com) and can be found at [https://bigcats.onrender.com](https://bigcats.onrender.com)
+
+## Local Installation
+
+* Clone the repository
+
+`$ git clone https://github.com/shashank2806/cheetah-leopard-jaguar.git`
+
+* Install required libraries
+
+`$ pip install -r requirements.txt`
+
+* Then cd into cloned folder
+
+`$ cd cheetah-leopard-jaguar`
+
+* Run `server.py`
+
+`$ python app/server.py serve`
+
 
 
 ## Contributing
