@@ -1,4 +1,5 @@
 # Is it a Chhetah, Leopard or Jaguar?
+[![Open Source Helpers](https://www.codetriage.com/shashank2806/cheetah-leopard-jaguar/badges/users.svg)](https://www.codetriage.com/shashank2806/cheetah-leopard-jaguar)
 
 Identifies if it is a cheetah, a leopard, or a jaguar by looking at their images. I always have trouble classifying between these three big cats, that's why I thought to make a classifier using deep-learning.
 
